@@ -1,9 +1,3 @@
-![Laravel](https://laravel.com/assets/img/components/logo-laravel.svg)
-
-<h1 align="center">Aplikasi Silsilah Keluarga</h1>
-
-[![Build Status](https://travis-ci.org/nafiesl/silsilah.svg?branch=master)](https://travis-ci.org/nafiesl/silsilah)
-[![Coverage Status](https://coveralls.io/repos/github/nafiesl/silsilah/badge.svg?branch=master)](https://coveralls.io/github/nafiesl/silsilah?branch=master)
 
 > **Development in progress**  
 > Dalam proses development, perubahan struktur tabel akan **diubah langsung pada file migration** yang sesuai.
@@ -65,7 +59,7 @@ Aplikasi ini dapat dipasang pada server lokal dan onlne dengan spesifikasi berik
 
 ### Langkah Instalasi
 
-1. Clone Repo, pada terminal : `git clone https://github.com/nafiesl/silsilah.git`
+1. Clone Repo, pada terminal : `git clone https://github.com/frfusch21/family-tree.git`
 2. `cd silsilah`
 3. `composer install`
 4. `cp .env.example .env`
